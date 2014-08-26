@@ -1,0 +1,5 @@
+{
+  "server": "localhost",
+  "name": "zeuJS",
+  "port": 27017
+}
