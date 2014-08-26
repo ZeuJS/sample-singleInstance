@@ -5,6 +5,7 @@
     <mapping directory="$PROJECT_DIR$/node_modules/zeujsApollo" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/node_modules/zeujsArtemis" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/node_modules/zeujsChaos" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/node_modules/zeujsPrometheus" vcs="Git" />
   </component>
 </project>
 
