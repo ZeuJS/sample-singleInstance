@@ -3,7 +3,6 @@
   <component name="IdProvider" IDEtalkID="B705B2F12302FDEAFCF93365704C4D0C" />
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" />
   <component name="TaskProjectConfiguration">
-    <server type="GitHub" url="github.com" />
+    <server type="GitHub" url="http://github.com" />
   </component>
 </project>
-
