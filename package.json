@@ -2,5 +2,11 @@
   "name": "zeujs-sample-single-instance",
   "version": "0.0.1-alpha",
   "dependencies": {
+    "zeujs-apollo": "~0.0.1",
+    "zeujs-chaos": "~0.0.1"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/ZeuJS/sample-singleInstance.git"
   }
 }
