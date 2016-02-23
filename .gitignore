@@ -29,18 +29,7 @@ node_modules
 
 ### IDEA ###
 
-## Directory-based project format
-.idea/workspace.xml
-.idea/tasks.xml
-.idea/dictionaries
-.idea/dataSources.ids
-.idea/dataSources.xml
-.idea/sqlDataSources.xml
-.idea/dynamic.xml
-.idea/gradle.xml
-.idea/libraries
-.idea/uiDesigner.xml
-.idea/mongoSettings.xml
+.idea
 
 ## Additional for IntelliJ
 out/
